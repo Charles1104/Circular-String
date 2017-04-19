@@ -1,0 +1,24 @@
+{
+  "name": "circular_string",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "mocha --watch tests"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Charles1104/Circular-String.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Charles1104/Circular-String/issues"
+  },
+  "homepage": "https://github.com/Charles1104/Circular-String#readme",
+  "devDependencies": {
+    "chai": "^3.5.0",
+    "mocha": "^3.2.0"
+  }
+}
